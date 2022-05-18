@@ -1,0 +1,49 @@
+header {
+   margin-bottom: 30px;
+}
+h1 {
+   font-size: 24px;
+   color: rgb(71, 62, 62);
+   margin: 0;
+}
+
+#description {
+   margin: 12px 0;
+}
+header p {
+   margin: 20px auto 0 auto;
+}
+a:hover {
+   text-decoration: none;
+   background-color: rgb(180, 40, 90);
+}
+ol {
+   list-style: none;
+   padding: 12px 0px;
+   width: 500px;
+   margin: 20px auto 0 auto;
+}
+li {
+   background-color: rgb(233, 136, 124);
+   border-radius: 6px;
+   margin: 20px auto 0 auto;
+   padding: 16px;
+   box-shadow: 5px 5px 5px rgb(0 0 0 / 20%);
+}
+a {
+   padding: 12px 48px;
+   background-color: rgb(167, 1, 78);
+   color: white;
+   border: 1px solid rgb(167, 1, 78);
+   border-radius: 4px;
+   font-size: 24px;
+   display: inline-block;
+   margin: 0;
+}
+h2 {
+   color: rgb(78, 13, 5);
+   font-family: "Oswald", "sans-serif";
+}
+.highlight-goal {
+   background-color: rgb(186, 78, 64);
+}
